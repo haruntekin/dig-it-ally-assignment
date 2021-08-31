@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.username-input {
+  margin-bottom: 1rem !important;
+}
+.username-submit {
+  margin-bottom: 1rem !important;
+}
