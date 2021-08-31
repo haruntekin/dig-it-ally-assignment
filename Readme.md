@@ -7,4 +7,4 @@ Run node server.js in server folder
 
 Port number is hardcoded, 7001
 
-https://localhost:7001
+http://localhost:7001
